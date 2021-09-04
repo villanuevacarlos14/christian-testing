@@ -1,8 +1,8 @@
 export class Weather {
 
-    public date!: string;
+    public date!: Date;
     public temperatureC!: number;
     public temperatureF!: number;
     public summary!: string;
-  
+ 
 }

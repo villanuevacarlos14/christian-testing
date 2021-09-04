@@ -1,3 +1,10 @@
+/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.csprojAssemblyReference.cache
+/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.AssemblyInfoInputs.cache
+/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.AssemblyInfo.cs
+/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.csproj.CoreCompileInputs.cache
+/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.MvcApplicationPartsAssemblyInfo.cs
+/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.MvcApplicationPartsAssemblyInfo.cache
 /Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/bin/Debug/net5.0/appsettings.Development.json
 /Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/bin/Debug/net5.0/appsettings.json
 /Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/bin/Debug/net5.0/christian-test.deps.json
@@ -10,13 +17,6 @@
 /Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.csprojAssemblyReference.cache
-/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.GeneratedMSBuildEditorConfig.editorconfig
-/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.AssemblyInfoInputs.cache
-/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.AssemblyInfo.cs
-/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.csproj.CoreCompileInputs.cache
-/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.MvcApplicationPartsAssemblyInfo.cs
-/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/christian-test.MvcApplicationPartsAssemblyInfo.cache
 /Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/staticwebassets/christian-test.StaticWebAssets.Manifest.cache
 /Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/staticwebassets/christian-test.StaticWebAssets.xml
 /Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/obj/Debug/net5.0/scopedcss/bundle/christian-test.styles.css

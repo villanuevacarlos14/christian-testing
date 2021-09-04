@@ -18,4 +18,16 @@ export class WeatherListComponent implements OnInit {
     });
   }
 
+  addWeather(){
+    var test = new Weather();
+    test.date = new Date();
+    test.summary = "asdasdaww";
+    test.temperatureC = 12;
+    test.temperatureF = 52;
+    this._weatherService.addWeather(test).subscribe((data)=>{
+      debugger;
+      this.weatherUpdate = data;
+    });
+  }
+
 }

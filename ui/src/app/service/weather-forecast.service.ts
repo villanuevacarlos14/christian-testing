@@ -12,4 +12,8 @@ export class WeatherForecastService {
   public getWeathers(){
     return this.http.get<Weather[]>(`${environment.baseUrl}/WeatherForecast`);
   }
+
+  public addWeather(weather: Weather){
+    return this.http.post<Weather[]>(`${environment.baseUrl}/WeatherForecast`,weather);
+  }
 }
