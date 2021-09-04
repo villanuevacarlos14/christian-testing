@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LQU+l/XdH/jW8E1yM7zR+UqnD4mNe5mJ2pdXgHMubKG0mlmj/HzGcc7Hv+yp/HAJ3bYBAL7PsBSyWcJLW3bW5g==",
+  "success": true,
+  "projectFilePath": "/Users/carlosvillanuevaiii/Documents/CarlosPersonal/Github/christian-testing/christian-test/christian-test.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlosvillanuevaiii/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/carlosvillanuevaiii/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/carlosvillanuevaiii/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/carlosvillanuevaiii/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/carlosvillanuevaiii/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/carlosvillanuevaiii/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
